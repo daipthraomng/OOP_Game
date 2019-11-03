@@ -12,7 +12,7 @@ import javax.net.ssl.SSLEngine;
 //Màn chơi : class định nghĩa trạng thái bắt đầu của trò chơi
 public class GameStage  {
     private final static int SCREEN_HEIGHT = 720;
-    private final static int SCREEN_WIDTH = 1200;
+    private final static int SCREEN_WIDTH = 1280;
     private final static String GAME_TITLE= "Tower Defense";
 
     GraphicsContext mainGr ;
