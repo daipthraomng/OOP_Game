@@ -1,6 +1,6 @@
 package sample;
 
-public class MachineCunTower implements Tower {
+public class MachineGunTower implements Tower {
     @Override
     public void putTower(int x, int y) {
 

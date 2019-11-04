@@ -1,6 +1,6 @@
 package sample;
 
-public class Road implements GameTile {
+public class Path implements GameTile {
     @Override
     public void loadImage(String path) {
 
